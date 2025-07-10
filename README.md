@@ -8,4 +8,4 @@ This project explores factors affecting academic performance using the `student-
 
 📊 Key insights include average grades, study time correlation, and gender-based comparisons.
 
-🔗 View the notebook: [Click here](link-to-your-notebook)
+🔗 View the notebook: [Click here](https://github.com/ShoaibAsim14/student-performance-analysis)
